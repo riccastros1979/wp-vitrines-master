@@ -1,0 +1,387 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR BIREME
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-vitrines-master 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-05 15:14-0300\n"
+"PO-Revision-Date: 2020-02-05 15:15-0300\n"
+"Last-Translator: \n"
+"Language-Team: Ricardo de Castro\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: plugin_vitrine.php:30
+msgid "Windows of Knowledge"
+msgstr "Vitrines do Conhecimento"
+
+#: plugin_vitrine.php:31
+msgid "Window of Knowledge"
+msgstr "Vitrine do Conhecimento"
+
+#: plugin_vitrine.php:32
+msgid "Add New"
+msgstr "Adicionar nova"
+
+#: plugin_vitrine.php:33
+msgid "Add New Window"
+msgstr "Adicionar nova Vitrine"
+
+#: plugin_vitrine.php:34
+msgid "Edit Window"
+msgstr "Editar Vitrine"
+
+#: plugin_vitrine.php:35
+msgid "New Window"
+msgstr "Nova Vitrine"
+
+#: plugin_vitrine.php:36
+msgid "Show Window"
+msgstr "Ver Vitrine"
+
+#: plugin_vitrine.php:37
+msgid "Serch Window"
+msgstr "Buscar Vitrine"
+
+#: plugin_vitrine.php:38
+msgid "Window Not Found"
+msgstr "Nenhuma Vitrine Encontrada"
+
+#: plugin_vitrine.php:39
+msgid "Window Not Found in Trash"
+msgstr "Nenhuma Vitrine encontrada na Lixeira"
+
+#: plugin_vitrine.php:40
+msgid "Parent Window"
+msgstr "Vitrine Pai"
+
+#: plugin_vitrine.php:58
+msgid "Window Components"
+msgstr "Componentes da Vitrine"
+
+#: plugin_vitrine.php:63
+msgid "Simplified layout"
+msgstr "Layout Simplificado"
+
+#: plugin_vitrine.php:68
+msgid "Component arrangement"
+msgstr "Disposição dos componentes"
+
+#: plugin_vitrine.php:73
+msgid " Window settings"
+msgstr " Configurações da Vitrine"
+
+#: plugin_vitrine.php:179
+msgid ""
+"In the menu below you can create your Window with text, images, videos and "
+"other content without Page Builder."
+msgstr ""
+"No menu abaixo você pode criar a sua Vitrine com texto, imagens, vídeos e "
+"outros conteúdos, sem o uso do Page Builder."
+
+#: plugin_vitrine.php:184
+msgid "Presentation of the theme"
+msgstr "Apresentação do tema"
+
+#: plugin_vitrine.php:184 plugin_vitrine.php:1080
+msgid "Presentation"
+msgstr "Apresentação"
+
+#: plugin_vitrine.php:190
+msgid ""
+"Area for presentation of the theme of the Window, this content will appear "
+"just below the highlighted components."
+msgstr ""
+"Área destinada à apresentação do tema da Vitrine, este conteúdo aparecerá "
+"logo abaixo dos componentes em destaque."
+
+#: plugin_vitrine.php:196 plugin_vitrine.php:282 plugin_vitrine.php:376
+#: plugin_vitrine.php:512
+msgid "Title"
+msgstr "Título"
+
+#: plugin_vitrine.php:196 plugin_vitrine.php:282 plugin_vitrine.php:376
+#: plugin_vitrine.php:512
+msgid "optional content"
+msgstr "conteúdo opcional"
+
+#: plugin_vitrine.php:216 plugin_vitrine.php:298 plugin_vitrine.php:391
+#: plugin_vitrine.php:459 plugin_vitrine.php:528
+msgid "Customize"
+msgstr "Personalizar"
+
+#: plugin_vitrine.php:220
+msgid "ID"
+msgstr "ID"
+
+#: plugin_vitrine.php:224 plugin_vitrine.php:301 plugin_vitrine.php:394
+#: plugin_vitrine.php:462 plugin_vitrine.php:532 plugin_vitrine.php:1054
+msgid "Text Color"
+msgstr "Cor do Texto"
+
+#: plugin_vitrine.php:229 plugin_vitrine.php:397 plugin_vitrine.php:465
+#: plugin_vitrine.php:535 plugin_vitrine.php:1064
+msgid "Background Color"
+msgstr "Cor de Fundo"
+
+#: plugin_vitrine.php:240
+msgid "Main Content"
+msgstr "Conteúdo Principal"
+
+#: plugin_vitrine.php:248
+msgid "Main Content ..."
+msgstr "Conteúdo principal..."
+
+#: plugin_vitrine.php:254
+msgid "Select the number of columns to display the main content"
+msgstr "Selecione o número de colunas para apresentação do conteúdo principal"
+
+#: plugin_vitrine.php:259 plugin_vitrine.php:347
+msgid "1 column"
+msgstr "1 coluna"
+
+#: plugin_vitrine.php:260 plugin_vitrine.php:348
+msgid "2 columns"
+msgstr "2 colunas"
+
+#: plugin_vitrine.php:299 plugin_vitrine.php:392
+msgid "Id"
+msgstr "Id"
+
+#: plugin_vitrine.php:304
+msgid "Background color"
+msgstr "Cor de Fundo"
+
+#: plugin_vitrine.php:315 plugin_vitrine.php:319 plugin_vitrine.php:323
+msgid "Show More"
+msgstr "Mostrar mais"
+
+#: plugin_vitrine.php:338
+msgid "Infographics, images, graphs, tables, etc."
+msgstr "Infográficos, imagens, gráficos, tabelas, etc."
+
+#: plugin_vitrine.php:342
+msgid "Select the number of columns to display the content"
+msgstr "Selecione o número de colunas para apresentação do conteúdo"
+
+#: plugin_vitrine.php:349
+msgid "3 columns"
+msgstr "3 colunas"
+
+#: plugin_vitrine.php:356
+msgid ""
+"Add the Embed code for the graphic element, you can also add text if "
+"necessary."
+msgstr ""
+"Adicione o código Embed do elemento gráfico, você também poderá adicionar um "
+"texto, caso necessário."
+
+#: plugin_vitrine.php:406 plugin_vitrine.php:407 plugin_vitrine.php:408
+#: plugin_vitrine.php:409 plugin_vitrine.php:410 plugin_vitrine.php:546
+#: plugin_vitrine.php:550 plugin_vitrine.php:554
+msgid "Show more"
+msgstr "Mostrar mais"
+
+#: plugin_vitrine.php:421
+msgid "Videos"
+msgstr "Vídeos"
+
+#: plugin_vitrine.php:428
+msgid ""
+"Include 1 to 3 Youtube videos. Use the video code. Ex: \"VyzucTwkrCI\" for "
+"the video: https://www.youtube.com/watch?v=VyzucTwkrCI"
+msgstr ""
+"Inserir de 1 a 3 vídeos do Youtube. Use o código do vídeo Ex: \\\"VyzucTwkrCI"
+"\\\" referente ao vídeo: https://www.youtube.com/watch?v=VyzucTwkrCI"
+
+#: plugin_vitrine.php:436 plugin_vitrine.php:441 plugin_vitrine.php:446
+msgid "Video Code"
+msgstr "Código do Vídeo"
+
+#: plugin_vitrine.php:453
+msgid "URL for link See more"
+msgstr "URL para link Veja mais"
+
+#: plugin_vitrine.php:460 plugin_vitrine.php:529
+msgid "ID:"
+msgstr "ID:"
+
+#: plugin_vitrine.php:480
+msgid "Links to publications, documents and related or recommended sites "
+msgstr ""
+"Links para Publicações, documentos e sites relacionados ou recomendados"
+
+#: plugin_vitrine.php:484
+msgid "Select the number of columns to display the main content "
+msgstr "Selecione o número de colunas para apresentação do conteúdo"
+
+#: plugin_vitrine.php:489
+msgid "column"
+msgstr "coluna"
+
+#: plugin_vitrine.php:490 plugin_vitrine.php:491
+msgid "columns"
+msgstr "colunas"
+
+#: plugin_vitrine.php:568
+msgid "Authorship and collaborators"
+msgstr "Autoria e Colaboradores"
+
+#: plugin_vitrine.php:575
+msgid "Special thanks or contacts area"
+msgstr "Área para agradecimentos ou contatos"
+
+#: plugin_vitrine.php:605
+msgid "CSS Editor"
+msgstr "Editor de CSS"
+
+#: plugin_vitrine.php:612
+msgid ""
+"Use this editor if you need to configure something specific to this Window. "
+"The CSS included in this field will only affect this Window."
+msgstr ""
+"Use este editor caso necessite configurar algo específico a esta vitrine. A "
+"CSS incluída neste campo só afetará esta vitrine."
+
+#: plugin_vitrine.php:616
+msgid "Your CSS"
+msgstr "Sua CSS"
+
+#: plugin_vitrine.php:637
+msgid ""
+"In the fields below we can create the highlighted components of the Window, "
+"at least 4 and at most 8 components, the system will organize the best "
+"display of the highlighted components and  images."
+msgstr ""
+"Nos campos abaixo podemos criar os componentes em destaque da Vitrine, no "
+"mínimo 4 componentes e no máximo 8, o sistema organizará a melhor exibição "
+"dos componentes e imagem de destaque."
+
+#: plugin_vitrine.php:674
+msgid "Component"
+msgstr "Componente"
+
+#: plugin_vitrine.php:679
+msgid "Public Content"
+msgstr "Conteúdo público"
+
+#: plugin_vitrine.php:693
+msgid "Component Title"
+msgstr "Título do Componente"
+
+#: plugin_vitrine.php:699
+msgid "Link"
+msgstr "Link"
+
+#: plugin_vitrine.php:703
+msgid "Title Color"
+msgstr "Cor do Título"
+
+#: plugin_vitrine.php:708
+msgid "Open in new window"
+msgstr "Abrir em nova janela"
+
+#: plugin_vitrine.php:734
+msgid "Icon"
+msgstr "Ícone"
+
+#: plugin_vitrine.php:735
+msgid "Select the source of the icon that represents the component"
+msgstr "Selecione a origem do ícone para representar este componente"
+
+#: plugin_vitrine.php:741
+msgid "FontAwesome"
+msgstr "FontAwesome"
+
+#: plugin_vitrine.php:742 plugin_vitrine.php:747
+msgid "Image URL"
+msgstr "URL da imagem"
+
+#: plugin_vitrine.php:756
+msgid "FontAwesome Icons"
+msgstr "FontAwesome Icons"
+
+#: plugin_vitrine.php:760
+msgid "Icon Color"
+msgstr "Cor do ícone"
+
+#: plugin_vitrine.php:769
+msgid "Notes"
+msgstr "Notas"
+
+#: plugin_vitrine.php:773
+msgid ""
+"The Notes field is internal and only used for the website´s information "
+"team, you can attach information that you think is necessary."
+msgstr ""
+"O campo Notas é interno e usado apenas para a equipe de informações do site. "
+"Você pode anexar as informações que julgar necessárias."
+
+#: plugin_vitrine.php:1018
+msgid "Display WordPress Editor?"
+msgstr "Exibir o Editor do WordPress?"
+
+#: plugin_vitrine.php:1049
+msgid "Window Title"
+msgstr "Título da Vitrine"
+
+#: plugin_vitrine.php:1075
+msgid "Font Size"
+msgstr "Tamanho da Fonte"
+
+#: plugin_vitrine.php:1090
+msgid "Window Texts"
+msgstr "Textos da Vitrine"
+
+#: plugin_vitrine.php:1101
+msgid "Borders"
+msgstr "Bordas"
+
+#: plugin_vitrine.php:1106
+msgid "Color of Boxes Borders, Images and Lines"
+msgstr "Cor das Bordas, Imagens e Linhas"
+
+#: plugin_vitrine.php:1118
+msgid ""
+"Date the content was updated. This item is important to inform the user of "
+"recent changes in the content."
+msgstr ""
+"Data que o conteúdo foi atualizado. Este item é importante para informar ao "
+"usuário das mudanças recentes no conteúdo."
+
+#: plugin_vitrine.php:1123
+msgid "Date"
+msgstr "Data"
+
+#: plugin_vitrine.php:1147
+msgid "Drag to change the order of the highlighted components  in the Window"
+msgstr "Arraste para mudar a ordem dos componentes em destaque na vitrine"
+
+#: plugin_vitrine.php:1225
+msgid "DISABLED"
+msgstr "DESABILITADO"
+
+#: plugin_vitrine.php:1236
+msgid "The order of the components can only be changed after saving the post"
+msgstr "A ordem dos componentes só pode ser alterada após salvar o post"
+
+#: plugin_vitrine.php:1242
+msgid "Update order of the components"
+msgstr "Atualizar ordem dos componentes"
+
+#: plugin_vitrine.php:1243
+msgid "Updated"
+msgstr "Atualizado"
+
+#: templates/archive_vitrines.php:104 templates/single_vitrines.php:100
+msgid "Sorry, no posts matched your criteria."
+msgstr "Desculpe, nenhum conteúdo encontrado."
